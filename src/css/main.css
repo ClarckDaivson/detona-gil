@@ -1,5 +1,5 @@
 body {
-
+    cursor: url('../imagens/smak-removebg-preview.png') auto;
 }
 
 .second{
@@ -51,4 +51,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.square {
+    cursor: url('../imagens/smak.jpeg'), auto;
+
 }
